@@ -49,7 +49,7 @@ This project demonstrates the following concepts required for AS92004:
 
 1. Download the file:
    ```
-   AS92004-1.1.py
+   main.py
    ```
 
 2. Make sure Python is installed:
@@ -64,7 +64,7 @@ This project demonstrates the following concepts required for AS92004:
 Run the program in a terminal:
 
 ```bash
-python AS92004-1.1.py
+python main.py
 ```
 
 Then follow the on-screen instructions and answer the questions.
