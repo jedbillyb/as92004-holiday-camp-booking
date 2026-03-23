@@ -1,4 +1,4 @@
-# AS92004 1.1 – Create a Computer Program
+# as92004-holiday-camp-booking
 
 This project was created for **NCEA AS92004 (1.1)** and achieved **Excellence**.
 
