@@ -1,3 +1,4 @@
+<a href="https://jedbillyb.com"><img align="right" src="https://img.shields.io/badge/jedbillyb.com-000?style=for-the-badge&logo=archlinux&logoColor=blue" /></a>
 # as92004-holiday-camp-booking
 
 This project was created for **NCEA AS92004 (1.1)** and achieved **Excellence**.
